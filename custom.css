@@ -1,0 +1,31 @@
+.root-header-topics
+{
+	font-size: 15px;
+	font-weight: 700;
+	font-family: Verdana;
+}
+#the-brand-name
+{
+	font-family: 'Trebuchet MS';
+	font-weight: 700;
+	text-shadow: 1px 1px 1px #000;
+	
+}
+#the-brand-the-span
+{
+	color: #ff9900;
+}
+#the-brand-amit-span
+{
+	color: #FFF;
+}
+#the-brand-kumar-span
+{
+	color: green;
+}
+#the-brand-dotcom-span
+{
+	font-size: 0.8em;
+	font-weight: 300;
+	color: #000;
+}
